@@ -7,7 +7,7 @@ No more emacs! >:D
 - omz: ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
 
 # Aliases
-I don't like typing words :(
+I don't like typing even if I may type a lot fast
 
 - alias gp="git add . && git commit -m 'Stage' && git push"
 - alias rs="rsync -avz"
